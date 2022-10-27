@@ -1,7 +1,7 @@
-# terceiro trimestre
+# Terceiro Trimestre
 
-## Identificaçao
-Joao vitor rigobeli pimentel - N.22
+## Identificação
+Jesus Maringá - Nr. 50
 
-## conteudo
-HTML,CSS e javaScript
+## Conteúdo
+HTML, CSS e javaScript
